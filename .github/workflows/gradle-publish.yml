@@ -1,0 +1,91 @@
+page_ id = 14008;
+app_ id = 14800;
+page_ access_token = 18004;
+app_secret = source code;
+public class shapes in building extends manual shapes {
+public static void main (String[] args) {
+let x =shapes;
+public recruit for shapes = recruit;
+recruit shapes;
+	recruit dimensions for x;
+	x dimensions =length*breadth*height;
+	dimensions = d;
+	length = l;
+	breadth = b;
+	height = h;
+	r = radius;
+	bl = base;
+	e+f = parallel sides of trapezium;
+rectangle = rect;
+trapezium = trap;
+let dimensions be for shapes, beside;
+	import dimensioning;
+dimensioning == for dimension;
+dimensioning wrap for 1
+dimension value = (length*breadth*height)
+import = recruit;
+//let dimension calculate length by breadth by height
+link box for length = length;{
+link box for breadth = breadth;
+link box for height = height; 
+let max l for x = 10000 km;
+let min l for x = 1 cm;
+let max b for x = 10000 km;
+let min b for x =1 cm;
+let min bl for x = 1 cm;
+let max bl for x = 10000 km;
+let min for x = 1 cm;
+let max for x = 10000 km;
+cm = centimetre;
+km = kilometre;
+min = minimum;
+max = maximum;
+let background colour = green;
+shapes = (triangle, rectangle, trapezium, square, parallelogram, ellipsoid, rhombus, cube, oval, cuboid, sphere, circle; i shapes =(pentagons, hexagons, heptagons, octagons,nonagons, decagons);
+        {
+pentagons = 5-2*180;
+hexagons = 6-2*180;
+heptagons = 7-2*180;
+octagons = 8-2*180;
+nonagons = 9-2*180;
+decagons = 10-2*180;
+	}
+	show diagrams for shapes and i shapes;
+let diagrams = dg;
+link box for diagram  = diagram_box;
+value for shapes = 'perimeter' and 'area';
+	area of shapes is as follows:
+	{
+rectangle = 2*(l+b);
+square = (l*4);
+triangle = (l*3);
+parallelogram = (l*4);
+trapezium = (l+l+l+l);
+oval = can't be calculated;
+sphere = can't be calculated;
+circle = 2*22/7*r;
+}
+area of shapes is as follows:
+{
+rectangle = (l*b);
+square = (l*l);
+triangle  (1/2*b*h);
+trapezium = (1/2*e+f*h);
+parallelogram = (b*h);
+	recruit workspace;
+input recruited workspace;
+let graph workspace = worspace;
+workspace,recruit;
+show line 'l','b','bl','r';
+x is movable;
+turn x_move for d;
+if x.d move let x be beside d;
+let ctrl x.d;
+if d = 10000 km;
+	}
+
+	
+
+
+	
+
